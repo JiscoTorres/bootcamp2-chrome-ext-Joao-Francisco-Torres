@@ -1,0 +1,39 @@
+/* Geral do popup */
+body {
+  width: 200px;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 15px;
+  background-color: #ffffff;
+  color: #f700ff;
+  text-align: center;
+}
+
+/* Título */
+h1 {
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+
+/* Botão ligar/desligar */
+button {
+  padding: 10px 15px;
+  font-size: 14px;
+  border: none;
+  border-radius: 6px;
+  background-color: #ff00d4;
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+button:hover {
+  background-color: #f892fcbb;
+}
+
+/* Status do modo escuro */
+#status {
+  margin-top: 10px;
+  font-size: 13px;
+  color: #555;
+}
