@@ -4,6 +4,9 @@
 
 ---
 
+<img width="1365" height="684" alt="image" src="https://github.com/user-attachments/assets/b711ae33-9780-43b0-ab7e-1281f9a8dc23" />
+
+
 ## ✨ Funcionalidades
 - Ativa/desativa modo escuro em qualquer página web  
 - Salva o estado atual no Chrome Storage  
