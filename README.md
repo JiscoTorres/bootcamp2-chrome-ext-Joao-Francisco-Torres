@@ -19,4 +19,4 @@
 ## 🖥️ Instalação (Modo Desenvolvedor)
 1. Clone ou baixe o repositório:
    ```bash
-   git clone https://github.com/JiscoTorres/bootcamp2-chrome-ext-JiscoTorres.git
+   git clone https://github.com/JiscoTorres/bootcamp2-chrome-ext-Joao-Francisco-Torres.git
