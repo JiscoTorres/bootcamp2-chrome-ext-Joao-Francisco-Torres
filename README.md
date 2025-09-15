@@ -3,8 +3,8 @@
 **Dark Switch** é uma extensão leve para Google Chrome que permite ativar ou desativar o **modo escuro** em qualquer site com apenas um clique. Ideal para quem passa muito tempo navegando e quer reduzir a fadiga visual.
 
 ---
+<img width="1365" height="676" alt="image" src="https://github.com/user-attachments/assets/25c6ebbe-4588-40c1-9ca6-4e453078ee02" />
 
-<img width="1365" height="684" alt="image" src="https://github.com/user-attachments/assets/b711ae33-9780-43b0-ab7e-1281f9a8dc23" />
 
 
 ## ✨ Funcionalidades
