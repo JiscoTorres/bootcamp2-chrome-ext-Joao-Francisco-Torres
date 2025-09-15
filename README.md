@@ -1,5 +1,7 @@
 # 🌙 Dark Switch — Extensão Chrome MV3
 
+GitHub Pages - https://jiscotorres.github.io/bootcamp2-chrome-ext-Joao-Francisco-Torres/
+
 **Dark Switch** é uma extensão leve para Google Chrome que permite ativar ou desativar o **modo escuro** em qualquer site com apenas um clique. Ideal para quem passa muito tempo navegando e quer reduzir a fadiga visual.
 
 ---
